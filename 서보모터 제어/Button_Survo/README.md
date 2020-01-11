@@ -12,7 +12,8 @@
   
 >### Flow Chart
 
-![플로우차트](https://user-images.githubusercontent.com/52990642/72199040-73feff80-3479-11ea-8ffd-a1faea22b2d6.png)
+<img width="320" alt="플로우차트" src="https://user-images.githubusercontent.com/52990642/72199053-aad51580-3479-11ea-90c8-747a7b39ed78.PNG">
+
 
 >### 회로도
 
