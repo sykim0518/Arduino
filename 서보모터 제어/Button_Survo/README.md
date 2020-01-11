@@ -10,6 +10,9 @@
 
 &nbsp;&nbsp;- 버튼이 눌리는 동안은 LED가 On, 떼면 LED가 Off  
   
+>### Flow Chart
+
+![플로우차트](https://user-images.githubusercontent.com/52990642/72199040-73feff80-3479-11ea-8ffd-a1faea22b2d6.png)
 
 >### 회로도
 
@@ -18,4 +21,5 @@
 >### 결과물
 
 ![결과물](https://user-images.githubusercontent.com/52990642/72199015-21254800-3479-11ea-9409-302da1ebaa23.png)
+
 
