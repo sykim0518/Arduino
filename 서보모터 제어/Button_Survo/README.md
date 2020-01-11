@@ -12,8 +12,7 @@
   
 >### Flow Chart
 
-<img width="320" alt="플로우차트" src="https://user-images.githubusercontent.com/52990642/72199053-aad51580-3479-11ea-90c8-747a7b39ed78.PNG">
-
+<img width="700" alt="플로우차트" src="https://user-images.githubusercontent.com/52990642/72199053-aad51580-3479-11ea-90c8-747a7b39ed78.PNG">
 
 >### 회로도
 
