@@ -1,5 +1,7 @@
 pyFirmata를 이용한 신호등 제작
 =============
+
+&nbsp;&nbsp; 
 >### 📌 **목표**
 
 &nbsp;&nbsp; 신호등을 PyFirmata를 이용하여 파이썬으로 구현한다
