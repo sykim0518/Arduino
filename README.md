@@ -6,7 +6,7 @@
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2️⃣&nbsp;  버튼을 이용한 서보모터 제어
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3️⃣&nbsp;  초음파센서를 이용한 LCD 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3️⃣&nbsp;  초음파센서를 이용한 LCD 제어
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4️⃣&nbsp;  초음파센서와 가변저항을 이용한 서보모터 제어
 
